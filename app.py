@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>UAS ETIKA</title>
 <style>body{font-family:Arial;padding:15px;max-width:700px;margin:auto;background:#f9f9f9}h2{text-align:center}.soal{background:#fff;padding:12px;border-radius:10px;margin:10px 0;box-shadow:0 1px 4px #ccc}button{background:#0a7cff;color:#fff;padding:14px;width:100%;border:0;border-radius:10px;font-size:16px}input{width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:8px}</style></head>
